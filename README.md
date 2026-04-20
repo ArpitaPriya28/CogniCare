@@ -75,13 +75,10 @@ Installation
 
 Step 1 — Clone the Repository
 git clone https://github.com/ArpitaPriya28/CogniCare.git
-
 Step 2 — Navigate to Project Folder
 cd cognicare
-
 Step 3 — Install Dependencies
 pip install -r requirements.txt
-
 Step 4 — Create .env File
 
 Create a file named:
