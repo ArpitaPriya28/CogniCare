@@ -5,7 +5,7 @@ from groq import Groq
 
 
 # ─── ADD YOUR GROQ API KEY in the .env file as: GROQ_API_KEY=your_key_here ───
-client = Groq(api_key="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")
+client = Groq(api_key="My API KEY")
 LANGUAGE_INSTRUCTION = {
     "English":    "Respond entirely in English.",
     "Hindi":      "Respond entirely in Hindi (हिंदी). Use Devanagari script.",
