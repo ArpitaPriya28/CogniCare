@@ -101,6 +101,7 @@ Add this to .gitignore:
 __pycache__/
 *.pyc
 venv/
+
 Future Enhancements
 Voice input and speech recognition
 Multi-language support
