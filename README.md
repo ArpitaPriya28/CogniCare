@@ -74,7 +74,7 @@ CogniCare/
 Installation
 
 Step 1 — Clone the Repository
-git clone https://github.com/your-username/cognicare.git
+git clone https://github.com/ArpitaPriya28/CogniCare.git
 Step 2 — Navigate to Project Folder
 cd cognicare
 Step 3 — Install Dependencies
@@ -82,27 +82,22 @@ pip install -r requirements.txt
 Step 4 — Create .env File
 
 Create a file named:
-
 .env
 
 Add:
-
 GROQ_API_KEY=your_api_key_here
+
 Running the Application
-
 Run the following command:
-
 streamlit run app.py
-
 The application will start in your browser.
 
 Security Note
-
 The .env file contains sensitive information such as API keys and should not be uploaded to GitHub.
 
 Add this to .gitignore:
-
 .env
+
 __pycache__/
 *.pyc
 venv/
@@ -115,6 +110,7 @@ Mobile application integration
 
 
 Limitations
+
 The chatbot provides general health information only
 It does not replace professional medical diagnosis
 Requires internet connection
